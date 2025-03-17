@@ -1,0 +1,6 @@
+/* div 태그의 크기와 배경색 설정 */
+div {
+  width: 200px; /* 너비 */
+  height: 100px; /* 높이 */
+  background-color: orange; /* 배경색 */
+}
